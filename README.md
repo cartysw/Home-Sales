@@ -9,8 +9,7 @@ This is a repository for the Module 22 Big Data challenge from the UofM Data Ana
   * Finding the average price of a home for each recorded buyer view count, where the selling price of the home is at least $350,000
     * To note, the caching and parquet tests were performed using this query
 
-This script was created using Google Colab, which can be found here: https://colab.google/
-I hope the analysis found here proves to be helpful and insightful.
+I hope the analysis found here proves to be helpful and insightful. This script was created using Google Colab, which can be found here: https://colab.google/
 
 ## Installation Instructions
   * Download project files or clone the repository to your local machine
